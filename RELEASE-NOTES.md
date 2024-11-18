@@ -1,3 +1,6 @@
+## 3.32.3
+* Ignoring containers which fails to inspect. #599
+
 ## 3.32.2
 * Exposing Stub Solver domain config, see the docs. #545
 
